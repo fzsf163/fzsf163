@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a Consulting Front-end Developer. Independent professional.<br>I like talking about ideas and making developing impactful web apps. 
+Hi, I am a Consulting Front-end Developer. Independent professional.<br>I like talking about ideas and making developing impactful web apps. <br> Currently **learning node js the hard way.**
 
 <hr/>
 
