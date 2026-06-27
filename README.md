@@ -1,10 +1,5 @@
 # 💫 About Me:
-Hi, I am Consulting Front-end Developer. Independent professional.<br>I like talking about ideas and making developing impactful web apps. 
-
-<hr/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdfzs) 
+Hi, I am a Consulting Front-end Developer. Independent professional.<br>I like talking about ideas and making developing impactful web apps. 
 
 <hr/>
 
