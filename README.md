@@ -12,7 +12,9 @@ Hi, I am Consulting Front-end Developer. Independent professional.<br>I like tal
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+### 🏴‍☠️ Captain's Log
+> "The problem is not the problem. The problem is your attitude about the problem."  
+> — **Captain Jack Sparrow**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
