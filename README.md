@@ -16,10 +16,8 @@ Hi, I am Consulting Front-end Developer. Independent professional.<br>I like tal
 > "The problem is not the problem. The problem is your attitude about the problem."  
 > — **Captain Jack Sparrow**
 
-**### 🏴‍☠️ Captain's Log
-![](https://readme-jokes.vercel.app/api?theme=radical&hideHeader=true&q=The%20problem%20is%20not%20the%20problem.%20The%20problem%20is%20your%20attitude%20about%20the%20problem.%20-%20Captain%20Jack%20Sparrow)**
+![](https://readme-jokes.vercel.app/api?theme=radical&hideHeader=true&q=The%20problem%20is%20not%20the%20problem.%20The%20problem%20is%20your%20attitude%20about%20the%20problem.%20-%20Captain%20Jack%20Sparrow)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **fzsf163/fzsf163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
