@@ -2,8 +2,6 @@
 
 ### An experienced Typescript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fzsf163&label=Profile views&color=0e75b6&style=flat" alt="fzsf163" /> </p>
-
 - 🔭 I'm currently working on **File Logging Server**
 
 - 🌱 I'm currently learning **「Node js」 The hard way + 「NestJs」**
