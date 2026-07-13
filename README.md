@@ -2,7 +2,7 @@
 
 ### An experienced Typescript developer
 
-- 🔭 I'm currently working on **File Logging Server**
+- 🔭 I'm currently working on **Acting like a tech manager to claude code**
 
 - 🌱 I'm currently learning **「Node js」 The hard way + 「NestJs」**
 
